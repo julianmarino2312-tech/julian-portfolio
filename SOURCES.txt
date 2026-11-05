@@ -1,0 +1,13 @@
+JULIAN MARINO / PORTFOLIO / PROJECT 2B
+
+Four static HTML pages: Home, Work, About and Contact. Shared CSS and image assets are included. The live GitHub Pages address is still pending; no publication is claimed.
+
+TYPE
+Barlow Condensed and Space Grotesk, served through Google Fonts in the page headers.
+https://fonts.google.com/specimen/Barlow+Condensed
+https://fonts.google.com/specimen/Space+Grotesk
+
+IMAGES
+HÖR zine, Detroit editorial, JABEZ and advertising images are previews of the existing course work. Consult the corresponding project folders for their original image credits and assistance disclosures. The JDMA mark is an editable SVG created for the portfolio with Codex assistance.
+
+Codex assisted the site layout, copy revision, HTML/CSS implementation and responsive checks. The personal portrait and contact fields remain blank for the student's own information.
